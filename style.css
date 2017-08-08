@@ -1,5 +1,12 @@
 body{
-	background-color: blue;
+	background-color: #FFE4C4;
+	text-align: center;
 }
-
+img{
+	height:150px;
+	weight:100px;
+	left:50%;
+	right:50%;
+	position:absolute;
+}
 
